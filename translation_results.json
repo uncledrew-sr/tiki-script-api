@@ -1,0 +1,52 @@
+[
+  {
+    "id": "CASE-01",
+    "label": "간식비 3,000원 증가 (주의)",
+    "original": "민우야, 이번 주에 용돈을 거의 다 썼네. 20,000원에서 19,400원밖에 남지 않았어. 특히 간식비가 많이 늘었는데, 왜 그런 것 같아?",
+    "translations": {
+      "vi": "Minh Uy, tuần này con đã gần như tiêu hết tiền tiêu vặt rồi. Từ 20.000 won chỉ còn 19.400 won. Mẹ thấy đặc biệt là tiền ăn vặt tăng lên nhiều, con nghĩ sao?",
+      "zh": "Mínwū呀, zhè zhōu de yòng qián chà bù duō huā wán le. cóng 20,000 yuán kào jìn 19,400 yuán le. yóuqí shì chī de huā fèi hǎo xiǎng bǐ jiào duō, nǐ shuō shì wèi shén me?",
+      "ph": "Minwoo, ubos na ang baon mo ngayong linggo. 20,000 won na lang ang natira, 19,400 won na lang. Lalo na ang mga snacks, ang dami mo pala nagastos, ano sa tingin mo kaya nangyari 'yon?"
+    }
+  },
+  {
+    "id": "CASE-02",
+    "label": "게임 결제 9,900원 첫 등장 (경고)",
+    "original": "민우야, 이번 주에 게임에 얼마를 썼어? 9,900원이었대. 게임에 돈을 많이 쓰면 다른 데 쓸 돈이 없어질 수 있어. 어떻게 생각해?",
+    "translations": {
+      "vi": "Minh Vũ ơi, tuần này con đã chi bao nhiêu tiền cho trò chơi vậy? Có 9,900 won đấy. Nếu con chi nhiều tiền cho trò chơi thì tiền để chi cho những việc khác có thể sẽ không còn nữa. Con nghĩ sao?",
+      "zh": "민우야, 이번 주에 게임에 얼마를 썼어? 9,900원이었대. 게임에 돈을 많이 쓰면 다른 데 쓸 돈이 없어질 수 있어. 어떻게 생각해?",
+      "ph": "Minwoo, magkano ang ginastos mo sa game ngayong linggo? 9,900 won daw. Kapag marami kang ginagastos sa game, baka maubos ang pera mo para sa ibang bagay. Ano sa tingin mo?"
+    }
+  },
+  {
+    "id": "CASE-03",
+    "label": "3주 연속 교통비 일정 (칭찬)",
+    "original": "민우야, 이번 주 용돈 얼마나 썼어? 20,000원 중에서 14,000원 쓴 거 같아. 간식비, 교통비, 취미 비용이 비슷하게 나왔네. 우리 또래 친구들은 한 달에 얼마큼 용돈을 쓸까? 같이 찾아볼까?",
+    "translations": {
+      "vi": "Minh U, con tuần này đã tiêu bao nhiêu tiền tiêu vặt? Mẹ nghĩ con đã tiêu khoảng 14.000 won, đúng không? Chi phí ăn vặt, đi lại, sở thích đều gần như nhau. Bạn bè cùng tuổi với con thường tiêu bao nhiêu tiền tiêu vặt trong một tháng? Chúng ta có muốn tìm hiểu cùng nhau không?",
+      "zh": "民宇， 这周零花钱花了多少？好像20000块钱里面花了14000块，零食费、交通费和兴趣爱好的花费差不多。我们同龄的朋友们一个月大概花多少零花钱呢？我们一起找找看，好吗？",
+      "ph": "Anak ko, gaano karaming pera ang ginastos mo sa allowance mo ngayong linggo? Sa 20,000 won, parang 14,000 won ang nagastos mo. Ang mga gastos mo sa pagkain, pamasahe, at libangan ay halos pareho. Gaano kaya karaming pera ang ginagamit ng mga kaibigan natin sa isang buwan? Gusto mo bang tingnan natin ito together?"
+    }
+  },
+  {
+    "id": "CASE-04",
+    "label": "용돈 92% 소진 (경고)",
+    "original": "지아, 이번 주 용돈을 거의 다 썼구나. 20,000원에서 18,500원이 남았어. 간식비랑 게임 결제에 쓴 돈이 많아졌는데, 어떻게 할 계획이니?",
+    "translations": {
+      "vi": "Gia, con đã tiêu gần hết tiền tiêu vặt tuần này rồi. Từ 20,000원 còn lại 18,500원. Con đã chi nhiều tiền cho ăn vặt và chơi game, con định làm gì đây?",
+      "zh": "佳啊，这个星期你的零用钱几乎都花完了。 从20,000块还剩下18,500块。 零食费和游戏充值花了很多钱， 你有什么计划吗？",
+      "ph": "Zia, mukhang naubos mo na ang baon mo sa linggong ito. Mula 20,000 won, 18,500 won na lang ang natitira. Marami kang ginastos sa mga meryenda at sa mga bayad sa laro, ano ang plano mo?"
+    }
+  },
+  {
+    "id": "CASE-05",
+    "label": "3주 연속 저축 0원 (주의)",
+    "original": "소피아, 이번 주 용돈은 얼마 받았니? 20,000원이었지? 그런데 이번 주는 19,200원밖에 안 남았어. 지난주와 비교하면 비슷하게 썼지만, 조금씩 모으는 습관을 들이면 좋겠지? 너는 앞으로 용돈을 어떻게 쓰고 싶어?",
+    "translations": {
+      "vi": "Sofia, con tuần này được bao nhiêu tiền tiêu vặt? 20,000 won đúng không? Nhưng mà tuần này con chỉ còn 19,200 won. So với tuần trước thì con cũng tiêu tương đương, nhưng mà nếu con biết tích lũy từng chút một thì sẽ tốt hơn đấy. Con muốn sử dụng tiền tiêu vặt của mình như thế nào trong tương lai?",
+      "zh": "小菲亚，这周的零花钱是多少钱呢？是2万韩元吧？可是这周只剩下19200韩元了。虽然和上周比起来花费差不多，但是如果能养成慢慢存钱的习惯就好了。你以后想怎么使用零花钱呢？",
+      "ph": "Sofia, magkano ang allowance mo ngayong linggo? 20,000 won, tama ba? Pero ngayong linggo, 19,200 won na lang ang natitira. Kung ikukumpara mo sa nakaraang linggo, parehong gastusin, pero mas mabuti kung magkakaroon ka ng kaugalian na mag-ipon-ipon ng konti-konti, hindi ba? Paano mo gustong gamitin ang allowance mo sa hinaharap?"
+    }
+  }
+]
